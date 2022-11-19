@@ -1,0 +1,12 @@
+newmtl CYBORG_HAND
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd CYBER ARM_PAINTED_A_BaseColor.png
+map_Ks CYBER ARM_PAINTED_A_Roughness.png
+bump CYBER ARM_PAINTED_A_Displacement.png
+map_bump CYBER ARM_PAINTED_A_Normal.png
